@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shairle/valentines2025/issues"
   },
-  "homepage": "https://github.com/shairle/valentines2025#readme"
+  "homepage": "https://github.com/shairle/valentines2025#readme",
+  "dependencies": {
+    "valentines2025": "file:"
+  }
 }
